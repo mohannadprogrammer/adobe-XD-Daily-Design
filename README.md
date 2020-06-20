@@ -2,4 +2,4 @@
 
 ## Day 1 design Mobi platform for gaming :
 
-<img src="./Design/design2.png" width="400px"/>
+<img src="./Design/design2.png" width="100%"/>
