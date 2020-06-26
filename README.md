@@ -8,6 +8,6 @@
 
 <img src="./Design/designDay2.png" width="100%"/>
 
-## Day 3 Task and orders in Timeing line :
+## Day 3 Dashboard Design :
 
 <img src="./Design/designDay3.png" width="100%"/>
