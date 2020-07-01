@@ -8,10 +8,10 @@
 
 <img src="./Design/designDay2.png" width="100%"/>
 
-## Day 3 Dashboard Design :
+## Day 3 Dashboard Design Example :
 
 <img src="./Design/designDay3.png" width="100%"/>
 
-## Day 3 Lamda app is application that gather all contact ways in it s :
+## Day 4 Lamda app is application that gather all contact ways in it s :
 
 <img src="./Design/day4.png" width="100%"/>
