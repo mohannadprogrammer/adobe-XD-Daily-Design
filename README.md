@@ -11,3 +11,7 @@
 ## Day 3 Dashboard Design :
 
 <img src="./Design/designDay3.png" width="100%"/>
+
+## Day 3 Lamda app is application that gather all contact ways in it s :
+
+<img src="./Design/day4.png" width="100%"/>
