@@ -1,5 +1,5 @@
 # adobe-XD-Daily-Design
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohannadprogrammer" alt="Mohannad waheed" /> </p>
+
 
 ## Day 5 Design a profile for Software company
 
