@@ -1,5 +1,8 @@
 # adobe-XD-Daily-Design
 
+## Day 6 my web site idea (Not complete)
+
+<img src="./Design/Web 1280 – 2.png" width="100%"/>
 
 ## Day 5 Design a profile for Software company
 
